@@ -19,3 +19,5 @@ A command-line calculator that performs basic arithmetic operations and maintain
 ### 2. Task Management App
 A command-line task management application for creating, viewing, updating, and managing tasks.
 
+### 3. File Management App
+A command-line file management application for creating, viewing, reading, editing and deleting file

@@ -21,3 +21,6 @@ A command-line task management application for creating, viewing, updating, and 
 
 ### 3. File Management App
 A command-line file management application for creating, viewing, reading, editing and deleting file
+
+### 4. Password Manager
+A command-line password manager application for generating, saving and retreiving password
